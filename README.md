@@ -78,7 +78,7 @@ days exceeding a supplied threshold.
 
 The consolidated report is provided as a PDF:
 
-`DOC-20261026-WA0014_261026_211850.pdf`
+https://github.com/maheshbabuyalamarthi2008-cmd/maheshbabuPython-Activity-Based-Learning-Decorated/blob/main/Python-Activity-Based-Learning-Decorated.pdf
 
 ## Conclusion
 

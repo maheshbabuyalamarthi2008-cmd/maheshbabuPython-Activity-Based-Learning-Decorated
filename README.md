@@ -34,13 +34,6 @@ Simulate a sequence of deposits and withdrawals, reject invalid transactions, an
 transaction counts.
 
 
-
-1. Progressive Electricity Billing**  
-   Calculates household electricity bills using progressive consumption slabs, fixed charges, surcharges, and rebates, and flags unusual monthly increases.
-
-2.  Attendance Recovery Computation**  
-   Calculates current attendance and the minimum number of additional fully attended classes needed to reach the 75% eligibility threshold.
-
 3. Multi-Product Shopping Budget Constraint 
 Calculate the total cost of a basket of products, apply a threshold discount, and identify whether the basket fits 
 the budget. 
@@ -56,12 +49,15 @@ rules fail.
 6.  Student Feedback Sentiment Scoring  
 Score multiple feedback comments using a supplied positive and negative keyword list and classify each 
 comment. 
+
 7. Text Compression Using Character Runs 
 Encode consecutive repeated characters as character-plus-count groups and use the encoded version only 
 when it is shorter
+
 8. Student Marks Matrix Analysis 
 Analyse marks for several students across multiple subjects, calculate each student average and each subject 
 average, and identify the highest student average.
+
 9. Weekly Electricity Consumption Matrix 
 Analyse appliance-wise electricity consumption over seven days, calculate daily and appliance totals, and flag 
 daily usage over a supplied limit. 
